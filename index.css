@@ -11,7 +11,7 @@ body {
 .container {
     background: #fdfcdc;
     max-width: 50%;
-    margin: auto;
+    margin: 100px auto;
     border: 3px dotted #48cae4;
     border-radius: 50px;
 }
